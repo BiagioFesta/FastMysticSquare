@@ -1,0 +1,4 @@
+.ccls-cache/
+.dir-locals.el
+build*/
+compile_commands.json
